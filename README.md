@@ -1,2 +1,2 @@
 # Problems
-some problems solved in SML
+some interesting problems solved in SML
