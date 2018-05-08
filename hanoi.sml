@@ -1,3 +1,5 @@
+(*Progam to solve Tower of Hanoi problem*)
+
 local
     fun hanoi (N,S,I,D) = 
         if (N=1) then [(S,D)]
