@@ -1,2 +1,2 @@
 # Problems
-some classic problems solved in SML
+some problems solved in SML
