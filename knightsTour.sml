@@ -1,3 +1,6 @@
+(*Problem for knight to visit all squares only once in a chess board*)
+(*Works for upto 7x7 chessboard*)
+
 local
     fun search (p1, []) = false
     | search(p1, h1::t1) =
